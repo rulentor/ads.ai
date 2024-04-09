@@ -1,0 +1,1 @@
+. 'C:\OSPanel\VSCodeProject\start\.pyprojectx\venvs\main-ab061d9d4f9bea1cc2de64816d469baf-py3.10\Scripts\activate.ps1'
